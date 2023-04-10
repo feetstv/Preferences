@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Jisho.org</name>
+  <version>1.0</version>
+  <bundle>tv.feets.jisho</bundle>
+  <updated>1645228365</updated>
+  <file>jisho.org_.alfredworkflow</file>
+</workflow>

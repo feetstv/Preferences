@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>44464B80-C9E5-4FBF-80DE-3AD690093C27</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>jis</string>
+			<key>text</key>
+			<string>Search Jisho.org for '{query}'</string>
+			<key>url</key>
+			<string>https://jisho.org/search/{query}</string>
+		</dict>
+		<key>4BFC50BF-419F-4F54-BB25-924B9EC9C836</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>oldgg</string>
+			<key>text</key>
+			<string>Search Old Google for '{query}'</string>
+			<key>url</key>
+			<string>https://oldgoogle.neocities.org/2010/search/?q={query}&amp;hl=en&amp;sclient=psy&amp;prmd=iv&amp;source=lnms#gsc.tab=0&amp;gsc.q={query}&amp;gsc.page=1</string>
+		</dict>
+		<key>6F771F49-F9D8-4E45-B6CB-BF1E9B51D3DB</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>oldgi</string>
+			<key>text</key>
+			<string>Search Old Google Images for '{query}'</string>
+			<key>url</key>
+			<string>https://oldgoogle.neocities.org/2010/search/isch/?q={query}&amp;hl=en&amp;sclient=psy&amp;prmd=iv&amp;source=lnms#gsc.tab=0&amp;gsc.q={query}&amp;gsc.page=1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
